@@ -1,0 +1,9 @@
+ithis is a new line
+Should not be deleted
+Apple
+Mango 
+Unique
+String
+Dad
+Kangaroo
+Owl
